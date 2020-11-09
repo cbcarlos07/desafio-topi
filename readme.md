@@ -9,7 +9,7 @@
 ## [7. Sequelize](#sequelize)
 ## [8. Testes Rest](#rest)
 ## [9. Detalhes adicionais](#detail)
-## [10. Respostas](#resp)
+
 
 
 
@@ -116,7 +116,7 @@ Este projeto foi baseado na arquitetura SOLID de acordo com [este artigo](https:
 
 Para o teste de API foi usada a ferramenta [Insomnia](https://insomnia.rest/download/)
 
-Na pasta [rest](https://github.com/cbcarlos07/desafio-bemol/blob/master/assets/Insomnia_2020-11-08) deste projeto tem o arquivo com os testes
+Na pasta [rest](https://github.com/cbcarlos07/desafio-topi/tree/master/assets) deste projeto tem o arquivo com os testes
 
 Basta importar dentro da ferramenta o arquivo `json` e as requisiçoes estão prontas
 
@@ -129,7 +129,7 @@ Execução dos testes é baseado no banco de dados de teste.
 
 O frontend consulta a api. A API consulta o servidor de repositórios com os parâmetros necessários
 
-
+![alt text](https://github.com/cbcarlos07/desafio-topi/blob/master/assets/Capturar.JPG)
 
 
 
